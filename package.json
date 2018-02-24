@@ -1,0 +1,13 @@
+{
+  "name": "composicion-funcional",
+  "version": "0.1.0",
+  "author": "Hector Yeomans",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "cleaver watch presentation.md"
+  },
+  "dependencies": {
+    "cleaver": "0.8.7"
+  }
+}
